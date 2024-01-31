@@ -10,6 +10,13 @@ Twitter (X): url will go here
   
 Telegram: [@MilwaukeeBitcoin](https://t.me/MilwaukeeBitcoin/3)
 
+Telegram: [@MKE_BTC_WED](https://t.me/MKE_BTC_WED)
+
+Telegram: [@MKE_BTC_WED](https://t.me/MKE_BTC_WED)
+
+Telegram: [@MKE_BTC_WED](https://t.me/MKE_BTC_WED)
+
+
 -------------------------------------------
 
 More information will go here
