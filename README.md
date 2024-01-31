@@ -8,7 +8,7 @@ This will allow you to suggest new discussion topics (as GitHub Issues) and also
 
 _In true open source group management style._
 
-Meetup: url will go here
+Meetup: [Wisconsin Bitcoin Meetup](https://www.meetup.com/milwaukee-wisconsin-bitcoin-meetup)
 
 Facebook: [Wisconsin Bitcoin Meetup](https://www.facebook.com/groups/wisconsinbitcoin/)
 
