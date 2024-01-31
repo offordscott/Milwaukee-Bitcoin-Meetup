@@ -12,9 +12,9 @@ Telegram: [@MilwaukeeBitcoin](https://t.me/MilwaukeeBitcoin/3)
 
 Telegram: [@MKE_BTC_WED](https://t.me/MKE_BTC_WED)
 
-Telegram: [@MKE_BTC_WED](https://t.me/MKE_BTC_WED)
+Telegram: [@wisconsin_bitcoin_meetup](https://t.me/wisconsin_bitcoin_meetup)
 
-Telegram: [@MKE_BTC_WED](https://t.me/MKE_BTC_WED)
+Telegram: [Midwest Crypto](https://t.me/+RW2Wv7xVSi1021ha)
 
 
 -------------------------------------------
