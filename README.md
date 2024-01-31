@@ -2,7 +2,7 @@
 
 Description will go here.
 
-Please send me [@offordscott](https://t.me/offordscott) on Telegram your GitHub username and I will add you as a contributor to the repo.
+Please send me _( [@offordscott](https://t.me/offordscott) on Telegram )_ your GitHub username and I will add you as a contributor to the repo.
 
 This will allow you to suggest new discussion topics (as GitHub Issues) and also participate in shaping the rules and guidelines by suggesting edits or making comments on the ReadMe.Md file. 
 
