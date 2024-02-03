@@ -63,7 +63,9 @@ Telegram: [Midwest Crypto](https://t.me/+RW2Wv7xVSi1021ha)
 
 -------------------------------------------
 
-More information will go here
+**Note:** While this GutHub repo is a hard fork of another meetup group's repo as a convenient starting point, this group is not a hard fork of any particular CURRENT 2024 "Milwaukee Bitcoin Meetup". 
+
+There WAS an older "Bitcoin Milwaukee" back in 2021 that had derailed due to a rouge Telegram admin. Our group hard forked from that one on Telegram in 2021 in an effort to preserve historical data. 
 
 -------------------------------------------
 
