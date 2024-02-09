@@ -1,6 +1,23 @@
 # Milwaukee Bitcoin Meetup
 
-This meetup group focuses on fostering diverse opinions anout bitcoin and enables participants to freely share and implement their learnings into their life. The group encourages openness while respecting individual contributions. 
+This meetup group focuses on fostering diverse opinions about bitcoin and enables participants to freely share and implement their learnings into their life. The group encourages openness while respecting individual contributions. 
+
+## Find Us Online & In Person
+
+**Meetup:** [Wisconsin Bitcoin Meetup](https://www.meetup.com/milwaukee-wisconsin-bitcoin-meetup)
+
+**Facebook:** [Wisconsin Bitcoin Meetup](https://www.facebook.com/groups/wisconsinbitcoin/)
+  
+**Telegram:** [@MilwaukeeBitcoin](https://t.me/MilwaukeeBitcoin/3) (Milwaukee Bitcoin Official)
+
+**Telegram:** [@MKE_BTC_WED](https://t.me/MKE_BTC_WED) (Wednesday Morning Bitcoin Co-working in Wauwatosa, WI)
+
+**Telegram:** [@wisconsin_bitcoin_meetup](https://t.me/wisconsin_bitcoin_meetup) (Wisconsin Bitcoin Meetup)
+
+**Telegram:** [Midwest Crypto](https://t.me/+RW2Wv7xVSi1021ha) (Midwest Crypto Group)
+    
+    
+## About The Milwaukee Bitcoin Meetup
 
 **Open Forum with Guided Moderation** 
 
@@ -35,38 +52,21 @@ At the meetings, there is plenty of time for networking and informal discussions
 We hope to regularly get feedback from participants of the meetings to ensures the group evolves according to the members' interests and needs.
 
 We feel this approach balances the need for open, diverse discussions with the practicalities of sharing and applying knowledge. We hope the meeting style, format and guidelines respects individual contributions while fostering a collaborative environment conducive to learning and action.
-
-
--------------------------------------------
-
+ 
+ 
+## Contribute
 
 Please send me _( [@offordscott](https://t.me/offordscott) on Telegram )_ your GitHub username and I will add you as a contributor to the repo.
 
-This will allow you to suggest new discussion topics (as GitHub Issues) and also participate in shaping the rules and guidelines by suggesting edits or making comments on the ReadMe.Md file. 
-
-_In true open source group management style._
-
-Meetup: [Wisconsin Bitcoin Meetup](https://www.meetup.com/milwaukee-wisconsin-bitcoin-meetup)
-
-Facebook: [Wisconsin Bitcoin Meetup](https://www.facebook.com/groups/wisconsinbitcoin/)
-
-Twitter (X): url will go here
+This will allow you to suggest new discussion topics (as GitHub Issues) and also participate in shaping the rules and guidelines by suggesting edits or making comments on the ReadMe.Md file. _In true open-source group management style._
+ 
   
-Telegram: [@MilwaukeeBitcoin](https://t.me/MilwaukeeBitcoin/3)
+## Disclaimer 
+ 
+**Note:** While this GutHub repo is a hard fork of another meetup group's repo as a convenient starting point, this group is NOT a hard fork of any particular CURRENT 2024 "Milwaukee Bitcoin Meetup". 
 
-Telegram: [@MKE_BTC_WED](https://t.me/MKE_BTC_WED)
-
-Telegram: [@wisconsin_bitcoin_meetup](https://t.me/wisconsin_bitcoin_meetup)
-
-Telegram: [Midwest Crypto](https://t.me/+RW2Wv7xVSi1021ha)
-
-
--------------------------------------------
-
-**Note:** While this GutHub repo is a hard fork of another meetup group's repo as a convenient starting point, this group is not a hard fork of any particular CURRENT 2024 "Milwaukee Bitcoin Meetup". 
-
-There WAS an older "Bitcoin Milwaukee" back in 2021 that had derailed due to a rouge Telegram admin. Our group hard forked from that one on Telegram in 2021 in an effort to preserve historical data. 
-
--------------------------------------------
-
+There WAS an older "Bitcoin Milwaukee" back in 2021 that had derailed due to a rouge Telegram admin. **Our** group hard-forked from that one on Telegram in 2021 in an effort to preserve historical data. 
+ 
+ 
+  
  
